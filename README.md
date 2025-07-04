@@ -2,7 +2,6 @@
 
 Elsa is a GUI-based AI voice assistant built with Python. It listens to voice commands and performs a wide range of actions like searching the web, translating text, taking screenshots/photos, performing calculations, opening apps, and more – all from a slick tkinter interface.
 
-![Elsa UI](screenshot.png) <!-- Optional image if you have GUI screenshot -->
 
 ## 🛠 Features
 
@@ -89,7 +88,7 @@ python assistant.py
 
 ## 👩‍💻 Author
 
-**Elsa** was developed by [Your Name Here] – powered by Python and a healthy dose of curiosity.
+**Elsa** developed by Tanmay Bangar – powered by Python and a healthy dose of curiosity.
 
 ---
 
